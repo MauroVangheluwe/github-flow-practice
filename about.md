@@ -1,2 +1,2 @@
-#About Page
-This version describes the about page from the main branch.
+# About Page (Feature Branch)
+This version describes the about page from the feature branch.
